@@ -10,6 +10,6 @@ if(lovescore > 70){
 if(lovescore > 30 && lovescore < 70){
     alert("Your lovescore is " + lovescore + ".");
 }
-else{
+if(lovescore <30){
     alert("Your lovescore is " + lovescore + ". You go together like oil and water");
 }
