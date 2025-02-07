@@ -18,3 +18,8 @@ function fizzbazz(){
     count++;
     console.log(output);
 }
+
+/* 
+for 1 to 100:
+while(count<=100){}
+*/
